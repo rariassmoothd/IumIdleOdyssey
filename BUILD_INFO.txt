@@ -2,6 +2,6 @@ Ium Idle Odyssey
 Version: 0.01
 Platform: WebGL
 Unity: 6000.3.14f1
-Built: 2026-10-01 17:15:53 -04:00
-Commit: 2dd2d1df290a6326ad9157ddce7e5360a62b275b
+Built: 2026-10-02 10:39:03 -04:00
+Commit: ec85cb103185aec1ad066f229c97115bfc3b1e0f
 Working tree: dirty
